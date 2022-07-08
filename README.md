@@ -11,6 +11,9 @@
 - Güvenlik Numarası : 000
 - Kart 3D Secure Şifresi : a
 
-## 3d modeli için gerekecek api bilgileri
+### 3d Modeli İçin Gerekecek Api Bilgileri
 - Kullanıcı Adı: 700670665785admin ve 700670665785api 
 - Şifre: TEST2020
+
+
+Not: okUrl ve failUrl http://127.0.0.1:8000/ adresi için girilmiştir. Farklı bir ip veya port üzerinde test ediyorsanız güncellemeniz gerekmektedir.
