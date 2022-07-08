@@ -1,4 +1,4 @@
-# İş Bankası Sanal Pos Test
+# İş Bankası Sanal Pos Test Örneği
 İş bankası sanal pos 3d_pay ve 3d_pay_hosting modeli için çalışan test örneği
 
 ## Test Bilgileri
